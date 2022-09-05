@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/parkeunbin/study/mlops-study/mlflow-tutorial/mlruns/0/1067f4f111514420bbffabc17dc5ae49/artifacts
+end_time: 1662360670352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1067f4f111514420bbffabc17dc5ae49
+run_uuid: 1067f4f111514420bbffabc17dc5ae49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1662360668592
+status: 3
+tags: []
+user_id: parkeunbin
